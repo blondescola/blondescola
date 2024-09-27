@@ -1,6 +1,6 @@
 # Hellou! 😼
 Perfil para **trabalhos** e **conteúdos** escolares🏫  
-> ###### perfil oficial de projetos é o ***ArthurFt***
+> <i>perfil oficial e de projetos: <a href="https://github.com/ArthurFt">ArthurFt</a>.</i>
 
 
 
