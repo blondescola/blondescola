@@ -4,6 +4,10 @@ Perfil para **trabalhos** e **conteúdos** escolares🏫📝
     <img src="wave-joe.gif">
 </h1>
 
+
+> [!WARNING]
 > <i>perfil oficial e de projetos: <a href="https://github.com/ArthurFt">ArthurFt</a>.</i>
+
+<!-- > <i>perfil oficial e de projetos: <a href="https://github.com/ArthurFt">ArthurFt</a>.</i> -->
 
 ![](https://komarev.com/ghpvc/?username=blondescola&color=006bed)
